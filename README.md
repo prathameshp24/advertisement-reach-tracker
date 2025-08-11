@@ -1,4 +1,3 @@
-Alright — here’s the updated **README** with an ASCII pipeline flow diagram inserted in the right spot so it visually explains how your project flows from CCTV video to database storage.
 
 ---
 
